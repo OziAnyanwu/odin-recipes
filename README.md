@@ -7,3 +7,5 @@ Skills include:
 -images
 -links
 -using appropriate html elements (h1, h2 ..., h6, p, strong, em etc..)
+
+Website hosted at https://ozianyanwu.github.io/odin-recipes/
