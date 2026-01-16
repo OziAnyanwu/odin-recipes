@@ -1,5 +1,5 @@
 # odin-recipes
-First Odin Project involving creating a website that hosts multiple recipes
+First Odin Project involving creating a website that hosts multiple recipes. This is legitimately all I eat every week.
 
 Skills include:
 -writing good commit messages
