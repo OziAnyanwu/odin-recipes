@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: beige;
+}
+
+.recipe-list{
+    list-style-type: square;
+    border: 2px solid auto;
+    font-size: 25px;
+}
+
+.recipe{
+    margin: 1em 0;
+}
